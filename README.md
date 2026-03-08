@@ -1,2 +1,2 @@
 # martin-merkletreedata-ai
-Martin merkletree data - a
+Martin merkletree data
